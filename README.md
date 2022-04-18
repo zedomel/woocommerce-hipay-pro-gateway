@@ -1,0 +1,2 @@
+# woocommerce-hipay-pro-gateway
+

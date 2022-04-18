@@ -1,0 +1,426 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Hipay Gateway\n"
+"POT-Creation-Date: 2014-12-19 18:34+0100\n"
+"PO-Revision-Date: 2014-12-19 18:37+0100\n"
+"Last-Translator: Visitonweb SPRL <dimitri.lekien@visitonweb.com>\n"
+"Language-Team: Visitonweb SPRL <dimitri.lekien@visitonweb.com>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: D:\\_prod\\__woocommerce_plugins_dev\\woocommerce-gateway-hipay\\woocommerce-gateway-hipay\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: D:\\_prod\\__woocommerce_plugins_dev\\woocommerce-gateway-hipay\\woocommerce-gateway-hipay\n"
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/am/admin/class-wc-api-manager-menu.php:62
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/am/admin/class-wc-api-manager-menu.php:66
+msgid "Save Changes"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/am/admin/class-wc-api-manager-menu.php:81
+msgid "API License Activation"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/am/admin/class-wc-api-manager-menu.php:82
+msgid "API License Key"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/am/admin/class-wc-api-manager-menu.php:83
+msgid "API License email"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/am/admin/class-wc-api-manager-menu.php:87
+msgid "API License Deactivation"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/am/admin/class-wc-api-manager-menu.php:88
+msgid "Deactivate API License Key"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/am/admin/class-wc-api-manager-menu.php:161
+msgid "Plugin activated. "
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/am/admin/class-wc-api-manager-menu.php:167
+msgid "Connection failed to the License Key API server. Try again later."
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/am/admin/class-wc-api-manager-menu.php:242
+msgid ""
+"The license could not be deactivated. Use the License Deactivation tab to manually deactivate the license before activating a new "
+"license."
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/am/admin/class-wc-api-manager-menu.php:271
+msgid "Plugin license deactivated."
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/am/classes/class-wc-plugin-update.php:382
+#, php-format
+msgid ""
+"The license key for %s has expired. You can reactivate or purchase a license key from your account <a href=\"%s\" target=\"_blank"
+"\">dashboard</a>."
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/am/classes/class-wc-plugin-update.php:397
+#, php-format
+msgid ""
+"The subscription for %s is on-hold. You can reactivate the subscription from your account <a href=\"%s\" target=\"_blank"
+"\">dashboard</a>."
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/am/classes/class-wc-plugin-update.php:412
+#, php-format
+msgid ""
+"The subscription for %s has been cancelled. You can renew the subscription from your account <a href=\"%s\" target=\"_blank"
+"\">dashboard</a>. A new license key will be emailed to you after your order has been completed."
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/am/classes/class-wc-plugin-update.php:427
+#, php-format
+msgid ""
+"The subscription for %s has expired. You can reactivate the subscription from your account <a href=\"%s\" target=\"_blank"
+"\">dashboard</a>."
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/am/classes/class-wc-plugin-update.php:442
+#, php-format
+msgid ""
+"The subscription for %s has been suspended. You can reactivate the subscription from your account <a href=\"%s\" target=\"_blank"
+"\">dashboard</a>."
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/am/classes/class-wc-plugin-update.php:457
+#, php-format
+msgid ""
+"The subscription for %s is still pending. You can check on the status of the subscription from your account <a href=\"%s\" target="
+"\"_blank\">dashboard</a>."
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/am/classes/class-wc-plugin-update.php:472
+#, php-format
+msgid ""
+"The subscription for %s has been placed in the trash and will be deleted soon. You can purchase a new subscription from your "
+"account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/am/classes/class-wc-plugin-update.php:487
+#, php-format
+msgid ""
+"A subscription for %s could not be found. You can purchase a subscription from your account <a href=\"%s\" target=\"_blank"
+"\">dashboard</a>."
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/am/classes/class-wc-plugin-update.php:502
+#, php-format
+msgid ""
+"A license key for %s could not be found. Maybe you forgot to enter a license key when setting up %s, or the key was deactivated "
+"in your account. You can reactivate or purchase a license key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/am/classes/class-wc-plugin-update.php:517
+#, php-format
+msgid ""
+"Download permission for %s has been revoked possibly due to a license key or subscription expiring. You can reactivate or "
+"purchase a license key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/am/classes/class-wc-plugin-update.php:532
+#, php-format
+msgid "%s has not been activated. Go to the settings page and enter the license key and license email to activate %s."
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/am/classes/class-wc-plugin-update.php:547
+#, php-format
+msgid ""
+"You changed the subscription for %s, so you will need to enter your new API License Key in the settings page. The License Key "
+"should have arrived in your email inbox, if not you can get it by logging into your account <a href=\"%s\" target=\"_blank"
+"\">dashboard</a>."
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:319
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:609
+#, php-format
+msgid ""
+"The WooCommerce Hipay Gateway API License Key has not been activated, so the plugin is inactive! %sClick here%s to activate the "
+"license key and the plugin."
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:359
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:494
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:600
+msgid "Hipay"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:477
+msgid "Enable/Disable"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:479
+msgid "Enable Hipay"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:483
+msgid "Server to Use"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:485
+msgid ""
+"If set to <b>Test Server</b> the module will use the Hipay test system otherwise it's using the <b>Production Server</b>.\n"
+"Note, you need separate accounts for each system. See 'How to setup Hipay' for more information."
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:491
+msgid "Title"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:493
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:497
+msgid "Description"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:499
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:500
+msgid "Pay via Hipay payment service."
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:503
+msgid "Default Language"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:505
+msgid ""
+"System will try to select appropriate language with browser language and Billing Country. If none of available language are "
+"available, system wil use default language you have selected"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:510
+msgid "Hipay TEST ID account"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:512
+msgid ""
+"ID number of the Hipay TEST account on which this store website is declared. Normally this is your main account. Do not use your "
+"member area id here!"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:516
+msgid "Password TEST account"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:518
+msgid ""
+"Merchant password of the Hipay TEST account on which this store website is declared (it's not the login password!). To set a new "
+"merchant password: Log in to your Hipay account, navigate to Payment buttons where you can find a list of your registered sites. "
+"Click on the site informations button of the related site. Enter your merchant password and click on confirm. Do not forget to "
+"enter your new password here too."
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:522
+msgid "Hipay TEST site ID"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:524
+msgid ""
+"Id of the selected TEST site. To get a site id register your store website on the selected Hipay TEST account. You can find this "
+"option in your Hipay account under the menu item Payment buttons."
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:528
+msgid "Hipay PROD ID account"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:530
+msgid ""
+"ID number of the Hipay account on which this store website is declared. Normally this is your main account. Do not use your "
+"member area id here!"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:534
+msgid "Password PROD account"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:536
+msgid ""
+"Merchant password of the Hipay PROD account on which this store website is declared (it's not the login password!). To set a new "
+"merchant password: Log in to your Hipay account, navigate to Payment buttons where you can find a list of your registered sites. "
+"Click on the site informations button of the related site. Enter your merchant password and click on confirm. Do not forget to "
+"enter your new password here too."
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:540
+msgid "Hipay PROD site ID"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:542
+msgid ""
+"Id of the selected site. To get a site id register your store website on the selected Hipay account. You can find this option in "
+"your Hipay account under the menu item Payment buttons."
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:546
+msgid "Set a Title for your order"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:548
+msgid "This Title will be shown in each client order. idea: <b>Order on eShop mywebsite.com</b>"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:552
+msgid "Additional info"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:554
+msgid "Use this to give more details to your client. idea: <b>The best products on earth ;-)</b>"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:560
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:567
+msgid "Hipay Default Category"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:562
+msgid "Select the category. They are related to your Hipay Category settings"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:569
+msgid ""
+"PHP <strong><span style=\"color: #ff0000;\">allow_url_fopen<span></strong> is <strong><span style=\"color: #ff0000;\">OFF</span></"
+"strong>, you have to select category manually. Click on <a href=\""
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:569
+msgid "\" target=\"_blank\">CATEGORIES</a> to see categories available and fill the field with the category ID number"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:573
+msgid "Age Classification"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:575
+msgid "Select the minimum age of the buyers."
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:576
+msgid "Everyone"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:576
+msgid "For ages 12 and over"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:576
+msgid "For ages 16 and over"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:576
+msgid "For ages 18 and over"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:580
+msgid "Email"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:582
+msgid "Email notification for the Merchant"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:586
+msgid "Merchant Logo url"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:588
+msgid ""
+"If a logo URL was entered, the logo is displayed in the payment dialog. This logo, in GIF, PNG or JPG (JPEG) format must be "
+"accessible from the Internet via HTTPS protocol. This logo must not exceed 100x100 pixels in size."
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:601
+msgid "Hipay works by sending user to Hipay payment portal to enter their payment information."
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:710
+#, php-format
+msgid ""
+"ERROR : Your Woocommerce currency %s %s %s is not available with Hipay. Available currencies are EUR, USD, CAD, AUD, CHF, SEK, GBP"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:743
+msgid "An error occurred while creating the paymentParams object"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:750
+msgid "Basket"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:756
+#, php-format
+msgid "An error occurred while creating product object:  %s"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:770
+msgid "An error occurred while creating order object"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:826
+msgid "Thank you for your order, you are being redirected to Hipay payment interface."
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:841
+msgid "Hipay Request Failure"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:849
+msgid "Hipay authorization FAILED: "
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:850
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:863
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:872
+msgid "Operation type: "
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:850
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:863
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:872
+msgid "Operation status: "
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:853
+msgid "Hipay authorization SUCCEED: "
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:859
+msgid "Hipay transaction: "
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:862
+msgid "Capture FAILED:"
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:866
+msgid "Refund transaction: "
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:867
+msgid "Order fully refunded: "
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:870
+msgid "UNKNOWN OPERATION: "
+msgstr ""
+
+#: D:\_prod\__woocommerce_plugins_dev\woocommerce-gateway-hipay\woocommerce-gateway-hipay/hipay.php:901
+msgid ""
+"Hipay Gateway works better with custom permalinks. Please go to the <a href=\"options-permalink.php\">Permalinks Options Page</a> "
+"to configure them."
+msgstr ""

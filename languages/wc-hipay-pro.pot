@@ -1,0 +1,793 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Hipay Professional Gateway\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-30 21:19+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: hipay.php:68
+msgid "Cloning is forbidden."
+msgstr ""
+
+#: hipay.php:78
+msgid "Unserializing instances of this class is forbidden."
+msgstr ""
+
+#: hipay.php:246
+msgid ""
+"WooCommerce Hipay Professional Gateway works better with custom permalinks. "
+"Please go to the <a href=\"options-permalink.php\">Permalinks Options "
+"Page</a> to configure them."
+msgstr ""
+
+#: templates/html-multibanco-reference.php:30
+msgid "ENTITY:"
+msgstr ""
+
+#: templates/html-multibanco-reference.php:34
+msgid "REFERENCE:"
+msgstr ""
+
+#: templates/html-multibanco-reference.php:38
+msgid "AMOUNT:"
+msgstr ""
+
+#: templates/html-multibanco-reference.php:42
+msgid "EXPIRE:"
+msgstr ""
+
+#: templates/html-multibanco-reference.php:48
+msgid "The Multibanco reference will be sent to your email address. Thank you."
+msgstr ""
+
+#: includes/settings-hipay-mb.php:11 includes/settings-hipay.php:11
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/settings-hipay-mb.php:13
+msgid "Enable Hipay Multibanco Payment"
+msgstr ""
+
+#: includes/settings-hipay-mb.php:17 includes/settings-hipay.php:17
+msgid "Sandbox mode"
+msgstr ""
+
+#: includes/settings-hipay-mb.php:19
+msgid "Enable Hipay sandbox mode"
+msgstr ""
+
+#: includes/settings-hipay-mb.php:21 includes/settings-hipay.php:21
+msgid ""
+"If checked the plugin will use the Hipay test system otherwise it's will use "
+"the <b>Production Server</b>. Note, you need separate accounts for each "
+"system. See 'How to setup Hipay' for more information."
+msgstr ""
+
+#. %s: URL
+#: includes/settings-hipay-mb.php:29 includes/settings-hipay.php:29
+#, php-format
+msgid ""
+"Log Hipay events, inside %s Note: this may log personal information. We "
+"recommend using this for debugging purposes only and deleting the logs when "
+"finished."
+msgstr ""
+
+#: includes/settings-hipay-mb.php:32 includes/settings-hipay.php:39
+msgid "Title"
+msgstr ""
+
+#: includes/settings-hipay-mb.php:34 includes/settings-hipay.php:41
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: includes/settings-hipay-mb.php:35
+msgid "Multibanco"
+msgstr ""
+
+#: includes/settings-hipay-mb.php:38 includes/settings-hipay.php:45
+msgid "Description"
+msgstr ""
+
+#: includes/settings-hipay-mb.php:40 includes/settings-hipay.php:47
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: includes/settings-hipay-mb.php:41
+msgid "Pay via Multibanco or your HomeBanking payment service."
+msgstr ""
+
+#: includes/settings-hipay-mb.php:44
+msgid "Message for References"
+msgstr ""
+
+#: includes/settings-hipay-mb.php:46
+msgid "Message to follow the entity, reference and amount"
+msgstr ""
+
+#: includes/settings-hipay-mb.php:47
+msgid ""
+"Make the payment of the following Reference in a Multibanco terminal or "
+"through your Home Banking"
+msgstr ""
+
+#: includes/settings-hipay-mb.php:50
+msgid "Entity"
+msgstr ""
+
+#: includes/settings-hipay-mb.php:52
+msgid "Contracted entity"
+msgstr ""
+
+#: includes/settings-hipay-mb.php:54
+msgid "11 249"
+msgstr ""
+
+#: includes/settings-hipay-mb.php:55
+msgid "10 241"
+msgstr ""
+
+#: includes/settings-hipay-mb.php:59
+msgid "Limit time to payment"
+msgstr ""
+
+#: includes/settings-hipay-mb.php:61
+msgid "Number of days to customer perform the payment"
+msgstr ""
+
+#: includes/settings-hipay-mb.php:63
+msgid "Default in HiPay settings"
+msgstr ""
+
+#: includes/settings-hipay-mb.php:64
+msgid "3"
+msgstr ""
+
+#: includes/settings-hipay-mb.php:65
+msgid "30"
+msgstr ""
+
+#: includes/settings-hipay-mb.php:66
+msgid "90"
+msgstr ""
+
+#: includes/settings-hipay-mb.php:70
+msgid "Send references by email"
+msgstr ""
+
+#: includes/settings-hipay-mb.php:72
+msgid "Send emails"
+msgstr ""
+
+#: includes/settings-hipay-mb.php:74
+msgid "Check this option to add Multibanco references to new order emails."
+msgstr ""
+
+#: includes/settings-hipay-mb.php:77
+msgid "Username"
+msgstr ""
+
+#: includes/settings-hipay-mb.php:79
+msgid "Username of Multibanco Web Services."
+msgstr ""
+
+#: includes/settings-hipay-mb.php:83
+msgid "Password"
+msgstr ""
+
+#: includes/settings-hipay-mb.php:85
+msgid "Password of Multibanco Web Services."
+msgstr ""
+
+#: includes/settings-hipay-mb.php:89
+msgid "Sandbox username"
+msgstr ""
+
+#: includes/settings-hipay-mb.php:91
+msgid "Sandbox username of Multibanco Web Services."
+msgstr ""
+
+#: includes/settings-hipay-mb.php:95
+msgid "Sanbox password"
+msgstr ""
+
+#: includes/settings-hipay-mb.php:97
+msgid "Sandbox password of Multibanco Web Services."
+msgstr ""
+
+#: includes/settings-hipay-mb.php:101
+msgid "Reduce stock"
+msgstr ""
+
+#: includes/settings-hipay-mb.php:103
+msgid "Reduce stock only after payment."
+msgstr ""
+
+#: includes/settings-hipay-mb.php:107
+msgid "Encryptation key"
+msgstr ""
+
+#: includes/settings-hipay-mb.php:109
+msgid "Always required."
+msgstr ""
+
+#: includes/settings-hipay.php:13
+msgid "Enable Hipay Professional"
+msgstr ""
+
+#: includes/settings-hipay.php:32
+msgid "HiPay Email Notifications"
+msgstr ""
+
+#: includes/settings-hipay.php:34
+msgid "Enable HiPay email notifications"
+msgstr ""
+
+#: includes/settings-hipay.php:36
+msgid ""
+"Send notifications when an HiPay callback response is received from HiPay "
+"indicating refunds, chargebacks and cancellations."
+msgstr ""
+
+#: includes/settings-hipay.php:42
+msgid "HiPay"
+msgstr ""
+
+#: includes/settings-hipay.php:48
+msgid "Pay via Hipay payment service."
+msgstr ""
+
+#: includes/settings-hipay.php:51
+msgid "Default Language"
+msgstr ""
+
+#: includes/settings-hipay.php:53
+msgid ""
+"System will try to select appropriate language with browser language and "
+"Billing Country. If none of available language are available, system wil use "
+"default language you have selected"
+msgstr ""
+
+#: includes/settings-hipay.php:58
+msgid "Hipay TEST ID account"
+msgstr ""
+
+#: includes/settings-hipay.php:60
+msgid ""
+"ID number of the Hipay TEST account on which this store website is declared. "
+"Normally this is your main account. Do not use your member area id here!"
+msgstr ""
+
+#: includes/settings-hipay.php:64
+msgid "Password TEST account"
+msgstr ""
+
+#: includes/settings-hipay.php:66
+msgid ""
+"Merchant password of the Hipay TEST account on which this store website is "
+"declared (it's not the login password!). To set a new merchant password: Log "
+"in to your Hipay account, navigate to Payment buttons where you can find a "
+"list of your registered sites. Click on the site informations button of the "
+"related site. Enter your merchant password and click on confirm. Do not "
+"forget to enter your new password here too."
+msgstr ""
+
+#: includes/settings-hipay.php:70
+msgid "Hipay TEST site ID"
+msgstr ""
+
+#: includes/settings-hipay.php:72
+msgid ""
+"Id of the selected TEST site. To get a site id register your store website "
+"on the selected Hipay TEST account. You can find this option in your Hipay "
+"account under the menu item Payment buttons."
+msgstr ""
+
+#: includes/settings-hipay.php:76
+msgid "Hipay PROD ID account"
+msgstr ""
+
+#: includes/settings-hipay.php:78
+msgid ""
+"ID number of the Hipay account on which this store website is declared. "
+"Normally this is your main account. Do not use your member area id here!"
+msgstr ""
+
+#: includes/settings-hipay.php:82
+msgid "Password PROD account"
+msgstr ""
+
+#: includes/settings-hipay.php:84
+msgid ""
+"Merchant password of the Hipay PROD account on which this store website is "
+"declared (it's not the login password!). To set a new merchant password: Log "
+"in to your Hipay account, navigate to Payment buttons where you can find a "
+"list of your registered sites. Click on the site informations button of the "
+"related site. Enter your merchant password and click on confirm. Do not "
+"forget to enter your new password here too."
+msgstr ""
+
+#: includes/settings-hipay.php:88
+msgid "Hipay PROD site ID"
+msgstr ""
+
+#: includes/settings-hipay.php:90
+msgid ""
+"Id of the selected site. To get a site id register your store website on the "
+"selected Hipay account. You can find this option in your Hipay account under "
+"the menu item Payment buttons."
+msgstr ""
+
+#: includes/settings-hipay.php:94
+msgid "Set a Title for your order"
+msgstr ""
+
+#: includes/settings-hipay.php:96
+msgid ""
+"This Title will be shown in each client order. idea: <b>Order on eShop "
+"mywebsite.com</b>"
+msgstr ""
+
+#: includes/settings-hipay.php:100
+msgid "Additional info"
+msgstr ""
+
+#: includes/settings-hipay.php:102
+msgid ""
+"Use this to give more details to your client. idea: <b>The best products on "
+"earth ;-)</b>"
+msgstr ""
+
+#: includes/settings-hipay.php:106
+msgid "Hipay Default Category"
+msgstr ""
+
+#: includes/settings-hipay.php:108
+msgid ""
+"Select the category. They are related to your Hipay Category settings. Only "
+"set after change site ID."
+msgstr ""
+
+#: includes/settings-hipay.php:113
+msgid "Age Classification"
+msgstr ""
+
+#: includes/settings-hipay.php:115
+msgid "Select the minimum age of the buyers."
+msgstr ""
+
+#: includes/settings-hipay.php:116
+msgid "Everyone"
+msgstr ""
+
+#: includes/settings-hipay.php:116
+msgid "For ages 12 and over"
+msgstr ""
+
+#: includes/settings-hipay.php:116
+msgid "For ages 16 and over"
+msgstr ""
+
+#: includes/settings-hipay.php:116
+msgid "For ages 18 and over"
+msgstr ""
+
+#: includes/settings-hipay.php:120
+msgid "Email"
+msgstr ""
+
+#: includes/settings-hipay.php:122
+msgid "Email notification for the Merchant"
+msgstr ""
+
+#: includes/settings-hipay.php:126
+msgid "Merchant Logo url"
+msgstr ""
+
+#: includes/settings-hipay.php:128
+msgid ""
+"If a logo URL was entered, the logo is displayed in the payment dialog. This "
+"logo, in GIF, PNG or JPG (JPEG) format must be accessible from the Internet "
+"via HTTPS protocol. This logo must not exceed 100x100 pixels in size."
+msgstr ""
+
+#: includes/settings-hipay.php:132
+msgid "Capture Type"
+msgstr ""
+
+#: includes/settings-hipay.php:134
+msgid "Select the capture type."
+msgstr ""
+
+#: includes/settings-hipay.php:135
+msgid "Immediate"
+msgstr ""
+
+#: includes/settings-hipay.php:135
+msgid "Manual"
+msgstr ""
+
+#: includes/class-wc-hipay-pro-gateway-request.php:76
+#: includes/class-wc-hipay-pro-gateway-request.php:86
+#: includes/class-wc-hipay-pro-gateway-request.php:92
+msgid "Payment error:"
+msgstr ""
+
+#: includes/class-wc-hipay-pro-gateway-request.php:132
+#, php-format
+msgid "Order: #%1$d"
+msgstr ""
+
+#: includes/class-wc-hipay-pro-gateway-handler.php:65
+msgid "Hipay Request Failure"
+msgstr ""
+
+#. %s: currency code.
+#: includes/class-wc-hipay-pro-gateway-handler.php:175
+#, php-format
+msgid "Validation error: HiPay currencies do not match (code %s)."
+msgstr ""
+
+#. %s: Amount.
+#: includes/class-wc-hipay-pro-gateway-handler.php:191
+#, php-format
+msgid "Validation error: HiPay amounts do not match (gross %s)."
+msgstr ""
+
+#. %s: email address .
+#: includes/class-wc-hipay-pro-gateway-handler.php:207
+#, php-format
+msgid "Validation error: HiPay response from a different email address (%s)."
+msgstr ""
+
+#. %s: email address .
+#: includes/class-wc-hipay-pro-gateway-handler.php:214
+#, php-format
+msgid "Validation error: HiPay response from a different country (%s)."
+msgstr ""
+
+#: includes/class-wc-hipay-pro-gateway-handler.php:244
+msgid "HiPay payment completed"
+msgstr ""
+
+#: includes/class-wc-hipay-pro-gateway-handler.php:247
+msgid ""
+"Payment authorized. Change payment status to processing or complete to "
+"capture funds."
+msgstr ""
+
+#: includes/class-wc-hipay-pro-gateway-handler.php:268
+#, php-format
+msgid "Payment %s via HiPay."
+msgstr ""
+
+#. %s: order ID.
+#: includes/class-wc-hipay-pro-gateway-handler.php:282
+#: includes/class-wc-hipay-pro-multibanco.php:552
+#, php-format
+msgid ""
+"Order #%s has been marked paid by HiPay, but was previously cancelled. Admin "
+"handling required."
+msgstr ""
+
+#. %s: payment status.
+#: includes/class-wc-hipay-pro-gateway-handler.php:297
+#, php-format
+msgid "Payment refunded (%s)."
+msgstr ""
+
+#. %s: order link.
+#: includes/class-wc-hipay-pro-gateway-handler.php:301
+#, php-format
+msgid "Payment for order %s refunded"
+msgstr ""
+
+#. %1$s: order ID, %2$s: reason code.
+#: includes/class-wc-hipay-pro-gateway-handler.php:303
+#, php-format
+msgid "Order #%1$s has been marked as refunded - HiPay reason code: %2$s"
+msgstr ""
+
+#: includes/class-wc-hipay-pro-gateway-handler.php:308
+#, php-format
+msgid "HiPay Refunded %1$s - Refund ID: %2$s"
+msgstr ""
+
+#: includes/class-wc-hipay-pro-gateway-handler.php:321
+#, php-format
+msgid "Payment cancelled (%s)."
+msgstr ""
+
+#. %s: order link.
+#: includes/class-wc-hipay-pro-gateway-handler.php:325
+#, php-format
+msgid "Reversal cancelled for order #%s"
+msgstr ""
+
+#. %1$s: order ID, %2$s: order link.
+#: includes/class-wc-hipay-pro-gateway-handler.php:327
+#, php-format
+msgid ""
+"Order #%1$s has had a reversal cancelled. Please check the status of payment "
+"and update the order status accordingly here: %2$s"
+msgstr ""
+
+#: includes/class-wc-hipay-pro-multibanco.php:64
+msgid "HiPay Wallet Multibanco"
+msgstr ""
+
+#: includes/class-wc-hipay-pro-multibanco.php:65
+msgid ""
+"HiPay Multibanco generates payment references to be paied in Multibanco "
+"network."
+msgstr ""
+
+#: includes/class-wc-hipay-pro-multibanco.php:91
+#: includes/class-wc-hipay-pro-gateway.php:91
+#, php-format
+msgid ""
+"SANDBOX ENABLED. You can use sandbox testing accounts only. See the he <a "
+"href=\"%s\">Hipay Professional - Overview</a> for more details."
+msgstr ""
+
+#: includes/class-wc-hipay-pro-multibanco.php:211
+msgid "Multibanco Payment by HiPay Wallet"
+msgstr ""
+
+#: includes/class-wc-hipay-pro-multibanco.php:212
+msgid ""
+"Issue Multibanco payments references in your store, to be payed at "
+"Multibanco network or HomeBanking."
+msgstr ""
+
+#: includes/class-wc-hipay-pro-multibanco.php:227
+msgid "SOAP LIB"
+msgstr ""
+
+#: includes/class-wc-hipay-pro-multibanco.php:230
+#: includes/class-wc-hipay-pro-multibanco.php:256
+msgid "Install or active SOAP library in  PHP."
+msgstr ""
+
+#: includes/class-wc-hipay-pro-multibanco.php:238
+msgid "Registry table schema"
+msgstr ""
+
+#: includes/class-wc-hipay-pro-multibanco.php:250
+msgid "Webservices access"
+msgstr ""
+
+#: includes/class-wc-hipay-pro-multibanco.php:253
+msgid "Check if the WS access if temporary or due authentication failure."
+msgstr ""
+
+#: includes/class-wc-hipay-pro-multibanco.php:254
+msgid "Error: "
+msgstr ""
+
+#: includes/class-wc-hipay-pro-multibanco.php:270
+msgid ""
+"MAKE SURE THAT:<br>1. SOAP library is active for PHP<br>2. WooCommerce REST "
+"API is active<br><br>"
+msgstr ""
+
+#: includes/class-wc-hipay-pro-multibanco.php:271
+#, php-format
+msgid ""
+"CANCELATION OF MULTIBANCO REFERENCES<br>Cancel orders with expired "
+"references setting up a cronjob to run every day (e.g. 12:00 am )<br><br>"
+"URL<br>%s<br><br>Stock is updated ( incremented with the holded amount) if "
+"not choose for update after payment confirmation"
+msgstr ""
+
+#: includes/class-wc-hipay-pro-multibanco.php:277
+#: includes/class-wc-hipay-pro-gateway.php:211
+msgid "HiPay acceptance mark"
+msgstr ""
+
+#: includes/class-wc-hipay-pro-multibanco.php:343
+msgid "Waiting Multibanco payment."
+msgstr ""
+
+#: includes/class-wc-hipay-pro-multibanco.php:359
+msgid ""
+"Multibanco reference was not automatic generated. Please, use order action "
+"to generate a MB ref."
+msgstr ""
+
+#: includes/class-wc-hipay-pro-multibanco.php:432
+msgid "Stock updated after payment"
+msgstr ""
+
+#: includes/class-wc-hipay-pro-multibanco.php:451
+msgid "Payment failed: MB ref. not payed."
+msgstr ""
+
+#: includes/class-wc-hipay-pro-multibanco.php:595
+#, php-format
+msgid "MULTIBANCO Ref. has expired in %s"
+msgstr ""
+
+#: includes/class-wc-hipay-pro-gateway-api-handler.php:84
+#: includes/class-wc-hipay-pro-gateway-api-handler.php:117
+#: includes/class-wc-hipay-pro-gateway-api-handler.php:143
+#: includes/class-wc-hipay-pro-gateway-api-handler.php:177
+msgid "An error occurred while trying to contact the HiPay WS"
+msgstr ""
+
+#: includes/class-wc-hipay-pro-gateway-api-handler.php:90
+#: includes/class-wc-hipay-pro-gateway-api-handler.php:123
+#: includes/class-wc-hipay-pro-gateway-api-handler.php:149
+#: includes/class-wc-hipay-pro-gateway-api-handler.php:183
+msgid "Empty Response"
+msgstr ""
+
+#: includes/class-wc-hipay-pro-install.php:56
+msgid "Settings"
+msgstr ""
+
+#: includes/class-wc-hipay-pro-order-actions.php:36
+msgid "Confirm transaction (Capture)"
+msgstr ""
+
+#: includes/class-wc-hipay-pro-order-actions.php:41
+msgid "Generate MB reference"
+msgstr ""
+
+#: includes/class-wc-hipay-pro-order-actions.php:42
+msgid "Generate HiPay payment link "
+msgstr ""
+
+#: includes/class-wc-hipay-pro-order-actions.php:55
+msgid "Order was captured manually."
+msgstr ""
+
+#: includes/class-wc-hipay-pro-gateway.php:49
+msgid "Proceed to Hipay"
+msgstr ""
+
+#: includes/class-wc-hipay-pro-gateway.php:50
+msgid "Hipay"
+msgstr ""
+
+#: includes/class-wc-hipay-pro-gateway.php:51
+msgid "Hipay redirects customers to Hipay to enter their payment information."
+msgstr ""
+
+#: includes/class-wc-hipay-pro-gateway.php:212
+msgid "What is HiPay?"
+msgstr ""
+
+#: includes/class-wc-hipay-pro-gateway.php:252
+msgid "Gateway disabled"
+msgstr ""
+
+#: includes/class-wc-hipay-pro-gateway.php:252
+msgid "HiPay does not support your store currency."
+msgstr ""
+
+#: includes/class-wc-hipay-pro-gateway.php:399
+msgid "Refund failed."
+msgstr ""
+
+#: includes/class-wc-hipay-pro-gateway.php:414
+#, php-format
+msgid "Refunded %1$s - Refund ID: %2$s"
+msgstr ""
+
+#: includes/class-wc-hipay-pro-gateway.php:438
+#, php-format
+msgid "Payment of %1$d was captured - Transaction ID: %2$s"
+msgstr ""
+
+#: includes/class-wc-hipay-pro-gateway.php:448
+#, php-format
+msgid "Payment could not captured: %s"
+msgstr ""
+
+#: includes/class-wc-hipay-pro-gateway.php:451
+#, php-format
+msgid "Payment could not captured - Description: %1$s"
+msgstr ""
+
+#: includes/class-wc-hipay-pro-gateway.php:476
+#, php-format
+msgid "Order could not be cancelled: %1$s"
+msgstr ""
+
+#: includes/class-wc-hipay-pro-gateway.php:483
+#, php-format
+msgid "Order %1$d was cancelled - Transaction ID: %2$s"
+msgstr ""
+
+#: includes/admin/class-wc-hipay-pro-settings-page.php:31
+msgid "HiPay Settings"
+msgstr ""
+
+#: includes/admin/class-wc-hipay-pro-settings-page.php:62
+msgid "Section 1"
+msgstr ""
+
+#: includes/admin/class-wc-hipay-pro-settings.php:25
+msgid "WooCommerce HiPay Professional Settings"
+msgstr ""
+
+#: includes/admin/class-wc-hipay-pro-settings.php:27
+msgid "This is where you can active/deactive your plugin licence"
+msgstr ""
+
+#: includes/admin/class-wc-hipay-pro-settings.php:31
+msgid "API key"
+msgstr ""
+
+#: includes/admin/class-wc-hipay-pro-settings.php:32
+msgid "Your API key generated after license purchase"
+msgstr ""
+
+#: includes/admin/class-wc-hipay-pro-settings.php:39
+msgid "Activation email"
+msgstr ""
+
+#: includes/admin/class-wc-hipay-pro-settings.php:40
+msgid "Your email address registered at plugin purchase"
+msgstr ""
+
+#: includes/admin/class-wc-hipay-pro-settings.php:47
+msgid "Product ID Key"
+msgstr ""
+
+#: includes/admin/class-wc-hipay-pro-settings.php:48
+msgid "Installation product ID Key"
+msgstr ""
+
+#: includes/admin/class-wc-hipay-pro-settings.php:55
+msgid "Instance Key"
+msgstr ""
+
+#: includes/admin/class-wc-hipay-pro-settings.php:56
+msgid "Installation instance key"
+msgstr ""
+
+#: includes/admin/class-wc-hipay-pro-settings.php:63
+msgid "Deactive license"
+msgstr ""
+
+#: includes/admin/class-wc-hipay-pro-settings.php:64
+msgid "Check to deactive your license"
+msgstr ""
+
+#: includes/admin/class-wc-hipay-pro-settings.php:71
+msgid "Activated key"
+msgstr ""
+
+#: includes/admin/class-wc-hipay-pro-settings.php:72
+msgid "Activation key"
+msgstr ""
+
+#. Name of the plugin
+msgid "Woocommerce Hipay Professional Gateway"
+msgstr ""
+
+#. Description of the plugin
+msgid "Hipay Professional API for Woocommerce 3.0+"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://zedomel@bitbucket.org/zedomel/woocommerce-hipay-pro-gateway.git"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jose A. Salim"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "mailto:zedomel@gmail.com"
+msgstr ""
